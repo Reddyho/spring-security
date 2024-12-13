@@ -1,0 +1,5 @@
+package com.coforge.training.security.controller;
+
+public class HelloWorldController {
+
+}

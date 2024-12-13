@@ -1,0 +1,4 @@
+spring.application.name=hello-world
+
+spring.security.user.name=honey
+spring.security.user.password=Sist*9133
